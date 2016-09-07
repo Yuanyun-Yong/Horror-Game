@@ -16,5 +16,5 @@ Whole game has a time limit
   - 
   
 - Environment:
-  - 
+  - Semi open-world
 */
