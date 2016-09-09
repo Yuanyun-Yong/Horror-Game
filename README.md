@@ -14,6 +14,9 @@ Whole game has a time limit
   
 - Theme:
   - Frankenstein-esque main concept
+  - Player plays a monster (though this is not shown or told)
+  - They will encounter NPCs and depending on what they choose to do, there are different resultant sequences
+  - 
   
 - Environment:
   - Semi open-world
