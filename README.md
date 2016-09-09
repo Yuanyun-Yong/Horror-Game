@@ -10,11 +10,12 @@ Whole game has a time limit
   - WASD to move
   - F for flashlight
   - Shift to run
-  - 
+  - M for map
   
 - Theme:
   - 
   
 - Environment:
   - Semi open-world
+    - Players guided by a map 
 */
