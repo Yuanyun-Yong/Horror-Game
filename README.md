@@ -15,8 +15,10 @@ Whole game has a time limit
 - Theme:
   - Frankenstein-esque main concept
   - Player plays a monster (though this is not shown or told)
-  - They will encounter NPCs and depending on what they choose to do, there are different resultant sequences
-  - 
+    - They will encounter NPCs and depending on what they choose to do, there are different resultant sequences
+    - The combined effects of the choices will affect the end result of the game
+  - NPCs will appear as normal humans until a wrong choice is made to reveal their inner monster
+    - Sometimes there will be no choice at all and the NPC will "turn" into a monster all on their own
   
 - Environment:
   - Semi open-world
