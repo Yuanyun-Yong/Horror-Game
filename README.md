@@ -19,6 +19,9 @@ Whole game has a time limit
     - The combined effects of the choices will affect the end result of the game
   - NPCs will appear as normal humans until a wrong choice is made to reveal their inner monster
     - Sometimes there will be no choice at all and the NPC will "turn" into a monster all on their own
+    - Other times, depending on player's ability to hide/interact, there will be different results
+      - i.e. if chosen to interact, maybe will gain food/shelter, but there will be added risks etc.
+      - 
   
 - Environment:
   - Semi open-world
