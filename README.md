@@ -27,4 +27,10 @@ Whole game has a time limit
   - Semi open-world
     - Players guided by a map to know where to go
     - "Semi" as there are places players need to go to for the narrative/story to make sense (though there is no specific order they must do them)
+    - 
+    - 
+
+- Scenes:
+  1. Player wakes up on a slab
+  2. 
 */
