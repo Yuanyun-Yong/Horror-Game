@@ -2,13 +2,14 @@
 
 /*
 - Health bar on the top left of the screen
-- Log book on bottom left of the screen
+- Log book on bottom left of the screen (details events happened, current objectives)
   
 - Gameplay:
   - WASD to move
   - F for flashlight
   - Shift to run
   - M for map
+  - L for log book
   
 - Theme:
   - Frankenstein-esque main concept
