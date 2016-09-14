@@ -31,5 +31,6 @@
 
 - Scenes:
   1. Player wakes up on a slab
+   - Slam of door, thunder and lightning with a flickering light above
   2. 
 */
