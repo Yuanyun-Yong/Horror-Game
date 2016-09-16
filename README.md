@@ -1,11 +1,11 @@
-# Horror-Game
+# "Horror"-Game
 
 /*
 - Health bar on the top left of the screen
 - Log book on bottom left of the screen (details events happened, current objectives)
   - Log book is Dr Frankenstein's research/journal
     - Undecipherable symbols at first
-    - 
+    - Symbols will become readable as (if) player "learns" how to read (might not happen due to the activities)
   
 - Gameplay:
   - WASD to move
