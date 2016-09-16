@@ -3,7 +3,8 @@
 /*
 - Health bar on the top left of the screen
 - Log book on bottom left of the screen (details events happened, current objectives)
-  - Log book is Dr Frankenstein's research  
+  - Log book is Dr Frankenstein's research/ journal
+    - 
   
 - Gameplay:
   - WASD to move
