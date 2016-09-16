@@ -37,5 +37,5 @@
    - Slam of door, thunder and lightning with a flickering light above
    - First objective is to find a way out
    - Allow for player to take coat, hat and umbrella by the door
-  2. 
+  2. Escape out of the city
 */
