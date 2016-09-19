@@ -40,4 +40,5 @@
    - Allow for player to take coat, hat and umbrella by the door
   2. Escape out of the city undetected
   3. Find food and shelter
+  4. Next day: Player will hear shouting and screaming -- Girl is drowning in a lake
 */
