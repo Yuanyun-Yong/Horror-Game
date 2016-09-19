@@ -42,5 +42,5 @@
   3. Find food and shelter
   4. Next day: Player will hear shouting and screaming -- Girl is drowning in a lake
     - If choose to save, player will get shot (unless timer hasn't run out) - i.e when timer has run out, the man will come back and shoot the player
-  5. 
+  5. Player will continue to places as directed on the map
 */
