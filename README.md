@@ -13,6 +13,7 @@
   - Shift to run
   - M for map
   - L for log book
+    - Log book will contain notes and current objectives
   
 - Theme:
   - Frankenstein-esque main concept
