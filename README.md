@@ -45,4 +45,5 @@
   5. Player will continue to places as directed on the map
   6. Events happen
   7. Player's next objective is to find Frankenstein
+  8. Spy on Frankenstein
 */
