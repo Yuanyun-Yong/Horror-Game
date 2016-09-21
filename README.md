@@ -46,4 +46,7 @@
   6. Events happen
   7. Player's next objective is to find Frankenstein
   8. Spy on Frankenstein
+  9. Next course of action can be determined by player
+    - i.e. to demand, make his life miserable etc.
+  10. 
 */
