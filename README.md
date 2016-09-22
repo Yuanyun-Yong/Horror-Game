@@ -33,6 +33,11 @@
     - Map locations will glow once they have been completed
     - 
 
+- Characters:
+  - Dr Frankenstein
+    - 
+  - Player
+
 - Scenes:
   1. Player wakes up on a slab
    - Slam of door, thunder and lightning with a flickering light above
