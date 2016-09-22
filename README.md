@@ -37,6 +37,7 @@
   - Dr Frankenstein
     - 
   - Player
+  - Blind friend
 
 - Scenes:
   1. Player wakes up on a slab
