@@ -35,7 +35,8 @@
 
 - Characters:
   - Dr Frankenstein
-    - 
+    - Inquisitive
+    - Scientific
   - Player
   - Blind friend
   - 
