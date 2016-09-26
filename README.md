@@ -57,4 +57,5 @@
   9. Next course of action can be determined by player
     - i.e. to demand, make his life miserable etc.
   10. The chase
+  11. The end of life
 */
