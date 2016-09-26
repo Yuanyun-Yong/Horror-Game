@@ -56,5 +56,5 @@
   8. Spy on Frankenstein
   9. Next course of action can be determined by player
     - i.e. to demand, make his life miserable etc.
-  10. 
+  10. The chase
 */
