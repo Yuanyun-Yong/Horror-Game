@@ -58,4 +58,7 @@
     - i.e. to demand, make his life miserable etc.
   10. The chase
   11. The end of life
+    - Player can decide how to end it (Options available will vary based on how many stories they have done)
+    - Each option will correspond to each story and how the story played out
+  12. 
 */
